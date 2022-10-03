@@ -1,0 +1,29 @@
+[
+ {
+  "id": 1,
+  "email": "cosmo@gmail.com",
+  "password": "$2a$10$8qwIfeMPo1OtM08UKydJrOQZeT9FZ/QfXVUThJcqRSUNWh9RzwEr2",
+  "name": "Cosmo Kramer",
+  "address": "s/n",
+  "city": "Nevada",
+  "avatar": "avatar-1664740529364.jpg"
+ },
+ {
+  "id": 2,
+  "email": "cartman@gmail.com",
+  "password": "$2a$10$7Mb7uYLrcTkmy9tn5l6IY.XdhTEz9b.J8FVYb8ZzLgD0/ZsqXEO/q",
+  "name": "Erik Cartman",
+  "address": "s/n",
+  "city": "Nevada",
+  "avatar": "avatar-1664740569262.jpg"
+ },
+ {
+  "id": 3,
+  "email": "larry@gmail.com",
+  "password": "$2a$10$FbS471/A97R8nPQiHwMNyegqm/yuGg3FNJX.ZMvMNRLuVxFGmlW0.",
+  "name": "Larry David",
+  "address": "s/n",
+  "city": "New York",
+  "avatar": "avatar-1664834245420.jpg"
+ }
+]
